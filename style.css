@@ -1,7 +1,7 @@
 body { font-family: Arial, sans-serif; margin:0; }
-header { background:#444; color:#fff; padding:10px; display:flex; align-items:center; }
+header { background:#FFD700; color:#fff; padding:10px; display:flex; align-items:center; }
 .logo img { height:50px; margin-right:10px; }
 nav a { color:#fff; margin:0 10px; text-decoration:none; }
-.hero { background:#eee; padding:60px 20px; text-align:center; }
+.hero { background:#FFD700; padding:60px 20px; text-align:center; }
 .highlights { padding:20px; }
-footer { background:#444; color:#fff; text-align:center; padding:10px; }
+footer { background:#FFD700; color:#fff; text-align:center; padding:10px; }

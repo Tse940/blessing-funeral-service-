@@ -1,0 +1,11 @@
+<section class="products">
+  <h3>Our Product Gallery</h3>
+  <img src="products/products.png" alt="Blessing Funeral Products" style="width:100%; max-height:400px; object-fit:cover; border-radius:8px; margin-bottom:20px;">
+  
+  <div class="gallery">
+    <div><img src="products/casket1.jpg" alt="Casket"><p>Standard Casket</p></div>
+    <div><img src="products/tomb_platinum.jpg" alt="Platinum tombstone"><p>Platinum Tombstone</p></div>
+    <div><img src="products/tomb_silver.jpg" alt="Silver tombstone"><p>Silver Tombstone</p></div>
+    <div><img src="products/tomb_gold.jpg" alt="Gold tombstone"><p>Gold Tombstone</p></div>
+  </div>
+</section>

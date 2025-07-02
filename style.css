@@ -33,12 +33,6 @@ header {
   margin-right: 15px;
 }
 
-nav ul {
-  list-style: none;
-  display: flex;
-  gap: 20px;
-}
-
 nav a {
   color: gold;
   text-decoration: none;
